@@ -272,6 +272,7 @@ nav button svg {
 
 .right-elem2 i {
     font-size: 3vh;
+    color: #fff;
 }
 
 .right-elem2 p {
@@ -336,7 +337,7 @@ nav button svg {
     transform: scaleX(0.7) scaleY(0);
     opacity: 0;
     border-radius: 30px;
-    z-index: 999;
+    z-index: 9999999;
 }
 
 .page4 {
